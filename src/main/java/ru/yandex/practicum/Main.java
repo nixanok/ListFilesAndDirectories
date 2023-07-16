@@ -1,5 +1,4 @@
 package ru.yandex.practicum;
-
 import java.io.File;
 
 public class Main {
